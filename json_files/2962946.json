@@ -1,0 +1,353 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2962946.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 6.54,
+            "transcription": " Bom dia, meu nome é Viviane, eu falo aqui da TOTVS Matriz, tudo bem?"
+        },
+        {
+            "order": 1,
+            "start": 7.1000000000000005,
+            "end": 8.22,
+            "transcription": " Tudo bem, pois não?"
+        },
+        {
+            "order": 2,
+            "start": 8.5,
+            "end": 11.84,
+            "transcription": " Eu gostaria, por favor, de falar com o Lucas Alessandre, do TI."
+        },
+        {
+            "order": 3,
+            "start": 12.5,
+            "end": 13.3,
+            "transcription": " Só um momento."
+        },
+        {
+            "order": 4,
+            "start": 30.0,
+            "end": 59.980000000000004,
+            "transcription": " O que é o TI?"
+        },
+        {
+            "order": 5,
+            "start": 60.0,
+            "end": 81.0,
+            "transcription": " O que é o TI?"
+        },
+        {
+            "order": 6,
+            "start": 81.0,
+            "end": 81.02,
+            "transcription": " Alô?"
+        },
+        {
+            "order": 7,
+            "start": 81.66,
+            "end": 82.66,
+            "transcription": " Oi, pode falar."
+        },
+        {
+            "order": 8,
+            "start": 82.72,
+            "end": 85.26,
+            "transcription": " Ele não está atendendo, ele não deve estar na sala."
+        },
+        {
+            "order": 9,
+            "start": 85.34,
+            "end": 86.68,
+            "transcription": " A senhora quer deixar um recado?"
+        },
+        {
+            "order": 10,
+            "start": 87.0,
+            "end": 89.53999999999999,
+            "transcription": " Eu consigo falar com ele ainda agora pela manhã?"
+        },
+        {
+            "order": 11,
+            "start": 89.68,
+            "end": 89.98,
+            "transcription": " Ou somente..."
+        },
+        {
+            "order": 12,
+            "start": 89.98,
+            "end": 91.04,
+            "transcription": " Ou somente depois do almoço?"
+        },
+        {
+            "order": 13,
+            "start": 91.46000000000001,
+            "end": 94.52000000000001,
+            "transcription": " Menina, o problema é que ele quase não fica na sala."
+        },
+        {
+            "order": 14,
+            "start": 95.02000000000001,
+            "end": 97.92,
+            "transcription": " É de onde mesmo?"
+        },
+        {
+            "order": 15,
+            "start": 98.60000000000001,
+            "end": 98.98,
+            "transcription": " É da TOTVS."
+        },
+        {
+            "order": 16,
+            "start": 100.10000000000001,
+            "end": 100.66,
+            "transcription": " TOTVS."
+        },
+        {
+            "order": 17,
+            "start": 101.34,
+            "end": 102.22,
+            "transcription": " Qual o seu nome?"
+        },
+        {
+            "order": 18,
+            "start": 102.78,
+            "end": 103.76,
+            "transcription": " Meu nome é Viviane."
+        },
+        {
+            "order": 19,
+            "start": 104.62,
+            "end": 106.24000000000001,
+            "transcription": " Eu posso anotar esse número?"
+        },
+        {
+            "order": 20,
+            "start": 107.5,
+            "end": 108.98,
+            "transcription": " 3122-9600."
+        },
+        {
+            "order": 21,
+            "start": 110.7,
+            "end": 113.14,
+            "transcription": " Esse telefone, ele não vai conseguir contato comigo,"
+        },
+        {
+            "order": 22,
+            "start": 113.24000000000001,
+            "end": 116.76,
+            "transcription": " porque a gente fala da área da experiência do cliente da TOTVS."
+        },
+        {
+            "order": 23,
+            "start": 117.4,
+            "end": 118.12,
+            "transcription": " Ah, tá."
+        },
+        {
+            "order": 24,
+            "start": 118.12,
+            "end": 119.12,
+            "transcription": " É, a senhora..."
+        },
+        {
+            "order": 25,
+            "start": 119.98,
+            "end": 123.10000000000001,
+            "transcription": " Porque ele não tem horário certo pra estar na sala."
+        },
+        {
+            "order": 26,
+            "start": 123.22,
+            "end": 124.2,
+            "transcription": " Esse que é o problema."
+        },
+        {
+            "order": 27,
+            "start": 124.72,
+            "end": 126.30000000000001,
+            "transcription": " Eu não tenho como saber."
+        },
+        {
+            "order": 28,
+            "start": 126.86,
+            "end": 128.92000000000002,
+            "transcription": " Se a senhora quiser sentar depois, então..."
+        },
+        {
+            "order": 29,
+            "start": 128.92000000000002,
+            "end": 131.56,
+            "transcription": " Ou então deixar um telefone que eu peço pra ele retornar."
+        },
+        {
+            "order": 30,
+            "start": 132.12,
+            "end": 134.86,
+            "transcription": " É, como eu lhe informei, é que ele não vai conseguir contato comigo."
+        },
+        {
+            "order": 31,
+            "start": 135.0,
+            "end": 137.58,
+            "transcription": " Mas eu retorno contato com ele, então, mais tarde, tá bom?"
+        },
+        {
+            "order": 32,
+            "start": 137.7,
+            "end": 138.16,
+            "transcription": " Tá bom."
+        },
+        {
+            "order": 33,
+            "start": 138.3,
+            "end": 139.9,
+            "transcription": " Senhora Viviane da TOTVS."
+        },
+        {
+            "order": 34,
+            "start": 139.9,
+            "end": 140.28,
+            "transcription": " Eu vou..."
+        },
+        {
+            "order": 35,
+            "start": 140.28,
+            "end": 140.84,
+            "transcription": " Isso."
+        },
+        {
+            "order": 36,
+            "start": 141.2,
+            "end": 144.78,
+            "transcription": " Eu vou mandar uma mensagem pra ele, tá bom?"
+        },
+        {
+            "order": 37,
+            "start": 145.0,
+            "end": 145.74,
+            "transcription": " Tá bom, então."
+        },
+        {
+            "order": 38,
+            "start": 145.86,
+            "end": 146.52,
+            "transcription": " Obrigada, viu?"
+        },
+        {
+            "order": 39,
+            "start": 146.72,
+            "end": 147.12,
+            "transcription": " Obrigada."
+        },
+        {
+            "order": 40,
+            "start": 147.12,
+            "end": 147.94,
+            "transcription": " Boa tarde."
+        },
+        {
+            "order": 41,
+            "start": 148.18,
+            "end": 148.78,
+            "transcription": " Boa tarde."
+        },
+        {
+            "order": 42,
+            "start": 148.94,
+            "end": 149.08,
+            "transcription": " Boa tarde, né?"
+        },
+        {
+            "order": 43,
+            "start": 149.98,
+            "end": 150.82,
+            "transcription": " Bom dia."
+        },
+        {
+            "order": 44,
+            "start": 151.29999999999998,
+            "end": 152.07999999999998,
+            "transcription": " Bom dia."
+        },
+        {
+            "order": 45,
+            "start": 152.26,
+            "end": 152.38,
+            "transcription": " Tchau."
+        },
+        {
+            "order": 46,
+            "start": 152.38,
+            "end": 152.48,
+            "transcription": " Tchau."
+        }
+    ],
+    "metrics": {
+        "total_words": 47,
+        "words_per_minute": 23.777403035413144,
+        "top_10_words": [
+            [
+                " o que é o ti?",
+                2
+            ],
+            [
+                " boa tarde.",
+                2
+            ],
+            [
+                " bom dia.",
+                2
+            ],
+            [
+                " tchau.",
+                2
+            ],
+            [
+                " bom dia, meu nome é viviane, eu falo aqui da totvs matriz, tudo bem?",
+                1
+            ],
+            [
+                " tudo bem, pois não?",
+                1
+            ],
+            [
+                " eu gostaria, por favor, de falar com o lucas alessandre, do ti.",
+                1
+            ],
+            [
+                " só um momento.",
+                1
+            ],
+            [
+                " alô?",
+                1
+            ],
+            [
+                " oi, pode falar.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "prompt": "Essa é uma transcrição de uma ligação para avialiação de NPS da empresa TOTVS.",
+    "model": "large-v3",
+    "audio_path": "audio_samples/2966771.wav",
+    "transcription": [
+        {
+            "order": 0,
+            "start": 0.0,
+            "end": 6.1000000000000005,
+            "transcription": " Seja bem-vindo ao Grupo Rocha."
+        },
+        {
+            "order": 1,
+            "start": 6.7,
+            "end": 8.9,
+            "transcription": " Nosso menu de atendimento mudou."
+        },
+        {
+            "order": 2,
+            "start": 9.48,
+            "end": 14.26,
+            "transcription": " Digite o ramal desejado ou 3 para Departamento Comercial."
+        },
+        {
+            "order": 3,
+            "start": 14.94,
+            "end": 18.88,
+            "transcription": " Se você é cliente e deseja efetuar um pagamento, digite 4."
+        },
+        {
+            "order": 4,
+            "start": 19.48,
+            "end": 24.64,
+            "transcription": " Se você é fornecedor e deseja tratar de um assunto financeiro, digite 5."
+        },
+        {
+            "order": 5,
+            "start": 24.64,
+            "end": 29.38,
+            "transcription": " Se você é fornecedor e deseja falar no nosso Departamento de Compras,"
+        },
+        {
+            "order": 6,
+            "start": 29.38,
+            "end": 30.54,
+            "transcription": " digite 6."
+        },
+        {
+            "order": 7,
+            "start": 31.14,
+            "end": 34.339999999999996,
+            "transcription": " Para outros assuntos, aguarde para ser atendido."
+        },
+        {
+            "order": 8,
+            "start": 34.94,
+            "end": 37.56,
+            "transcription": " O Grupo Rocha agradece a sua ligação."
+        },
+        {
+            "order": 9,
+            "start": 59.38,
+            "end": 89.36,
+            "transcription": " O Grupo Rocha agradece a sua ligação."
+        },
+        {
+            "order": 10,
+            "start": 89.38,
+            "end": 119.36,
+            "transcription": " O Grupo Rocha agradece a sua ligação."
+        },
+        {
+            "order": 11,
+            "start": 119.38,
+            "end": 133.18,
+            "transcription": " O Grupo Rocha agradece a sua ligação."
+        }
+    ],
+    "metrics": {
+        "total_words": 12,
+        "words_per_minute": 6.687720601894854,
+        "top_10_words": [
+            [
+                " o grupo rocha agradece a sua ligação.",
+                4
+            ],
+            [
+                " seja bem-vindo ao grupo rocha.",
+                1
+            ],
+            [
+                " nosso menu de atendimento mudou.",
+                1
+            ],
+            [
+                " digite o ramal desejado ou 3 para departamento comercial.",
+                1
+            ],
+            [
+                " se você é cliente e deseja efetuar um pagamento, digite 4.",
+                1
+            ],
+            [
+                " se você é fornecedor e deseja tratar de um assunto financeiro, digite 5.",
+                1
+            ],
+            [
+                " se você é fornecedor e deseja falar no nosso departamento de compras,",
+                1
+            ],
+            [
+                " digite 6.",
+                1
+            ],
+            [
+                " para outros assuntos, aguarde para ser atendido.",
+                1
+            ]
+        ],
+        "magic_word_percentages": {
+            "obrigado": 0.0,
+            "obrigada": 0.0,
+            "por favor": 0.0,
+            "desculpa": 0.0,
+            "desculpe": 0.0,
+            "por gentileza": 0.0,
+            "bom dia": 0.0,
+            "boa tarde": 0.0,
+            "boa noite": 0.0,
+            "agradeço": 0.0,
+            "agradece": 0.0,
+            "gratidão": 0.0,
+            "sinto muito": 0.0,
+            "perdão": 0.0,
+            "me perdoe": 0.0,
+            "com licença": 0.0
+        }
+    }
+}
